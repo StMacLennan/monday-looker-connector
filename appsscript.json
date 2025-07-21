@@ -1,0 +1,14 @@
+{
+  "timeZone": "Africa/Johannesburg",
+  "dependencies": {},
+  "runtimeVersion": "V8",
+  "dataStudio": {
+    "name": "Monday.com",
+    "description": "Monday.com connector for Google Datastudio (Version 5.1 - Updated 24-01-2024)",
+    "company": "The SaaS JEDI",
+    "logoUrl": "https://monday.com/p/wp-content/uploads/2020/06/monday-logo.png",
+    "addonUrl": "https://thesaasjedi.com/products/monday-gds-connector",
+    "supportUrl": "https://thesaasjedi.com/products/monday-gds-connector"
+  },
+  "exceptionLogging": "STACKDRIVER"
+}
